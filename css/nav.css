@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    color: #e4eeee;
+    font-size: 30px;
+}
+
+.nav__item {
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.nav__link {
+    color: hsl(199deg 51% 55% / 88%);
+    text-decoration: none;
+}
+
+.nav__link:hover {
+    color: rgba(220, 20, 60, 0.563);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.nav__link:active {
+    color: red;
+}

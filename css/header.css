@@ -1,0 +1,22 @@
+.header {
+    color: #e4eeee;
+    padding: 20px;
+    margin: 5px auto;
+}
+
+.header__logo {
+    font-size: 40px;
+    padding-left: 5%;
+    margin-bottom: 0%;
+}
+
+.header__letter {
+    color: hsl(199deg 51% 55% / 88%);
+}
+
+.header__title {
+    color: #e4eeee;
+    margin-left: 20%;
+    font-size: 22px;
+}
+

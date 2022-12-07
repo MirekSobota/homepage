@@ -1,0 +1,30 @@
+.table {
+    overflow-x: auto;
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table__caption {
+    font-size: 30px;
+    color: #e4eeee;
+    margin: 20px;
+}
+
+.table__cell {
+    color: #e4eeee;
+    padding: 15px;
+    font-size: 25px;
+    border: 1px solid #e4eeee;
+    text-align: center;
+}
+
+.table__cell--header {
+    background-color: rgb(99, 113, 117);
+    font-weight: normal;
+    color: #e4eeee;
+}
+
+.table__row:hover {
+    background-color: rgb(99, 113, 117);
+}

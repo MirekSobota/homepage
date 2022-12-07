@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: #1e1f20;
+    font-family: 'Lato', sans-serif;
+}
+
+.js-lightTheme {
+    background-color: #424e58;
+}
+
+.button {
+    cursor: pointer;
+    background-color: #10704dc5;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.button:hover {
+    color: rgb(233, 233, 233);
+}
+
+.containerSite {
+    max-width: 1000px;
+    margin: auto;
+}

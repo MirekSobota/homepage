@@ -1,0 +1,21 @@
+.section {
+    color: #e4eeee;
+    padding: 25px;
+    margin: 30px 0;
+    width: 100%;
+    line-height: 1.5;
+    font-size: 25px;
+}
+
+.section__subHeader {
+    font-size: 35px;
+    text-shadow: 1px 2px 3px #e4eeee;
+}
+
+.section__subHeader--highlighted{
+    text-shadow: 1px 5px 5px #ef1207;
+}
+
+.section__list {
+    list-style: none;
+}
