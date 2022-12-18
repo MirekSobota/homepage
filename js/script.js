@@ -9,7 +9,6 @@
         const themeName = document.querySelector(".js-themeName");
 
         themeName.innerText = body.classList.contains("js-lightTheme") ? "ciemny" : "jasny";
-
     }
 
     const init = () => {
