@@ -3,7 +3,8 @@
 ## Demo
 [Homepage](https://mireksobota.github.io/homepage/)
 
-[Homepage](https://github.com/MirekSobota/homepage/blob/1d22262e42a434543d083df72f0dd4b9d35ba7a8/images/Homepage.gif)
+[Homepage](https://github.com/MirekSobota/homepage/blob/main/images/Homepage.gif?raw=true)
+
 
 ### Description 
 My first website, made during [Youcode Frontend developer cours ](https://youcode.pl)
