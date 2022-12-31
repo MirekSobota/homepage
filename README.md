@@ -3,7 +3,7 @@
 ## Demo
 [Homepage](https://mireksobota.github.io/homepage/)
 
-[Homepage](https://github.com/MirekSobota/homepage/blob/main/images/Homepage.gif?raw=true)
+![Homepage](https://github.com/MirekSobota/homepage/blob/main/images/Homepage.gif?raw=true)
 
 
 ### Description 
